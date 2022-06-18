@@ -21,7 +21,7 @@ bibtex_bibfiles:
 
 repository:
   url: https://github.com/MaxKumundzhiev/AdvancedAlgorithmsCookBook
-  branch: master
+  branch: main
   path_to_book: docs
 
 launch_buttons:
